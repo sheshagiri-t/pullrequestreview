@@ -8,9 +8,9 @@ List any dependencies that are required for this change.
 
 ## Type of change
 
-- ( ) Bug fix (non-breaking change which fixes an issue)
-- ( ) New feature (non-breaking change which adds functionality)
-- ( ) Breaking change (fix or feature that might cause existing functionality to not work as expected)
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that might cause existing functionality to not work as expected)
 
 ## Tested on following Browser-OS
 
