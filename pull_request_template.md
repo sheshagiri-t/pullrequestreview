@@ -17,8 +17,8 @@ List any dependencies that are required for this change.
 - [ ] Chrome - MacOS
 - [ ] Firefox - MacOS
 - [ ] Safari - MacOS
-- [ ] Edge - Windows
-- [ ] IE - Windows
+- [ ] Chrome - Windows
+- [ ] Firefox - Windows
 
 ## Checklist:
 
