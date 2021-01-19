@@ -1,0 +1,26 @@
+{
+  "name": "pullrequestreview",
+  "version": "1.0.0",
+  "description": "Explore pull request review feature",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .json --ext .md",
+    "pretest": "npm run lint",
+    "test": "echo \"No tests\"" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheshagiri-t/pullrequestreview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheshagiri-t/pullrequestreview/issues"
+  },
+  "homepage": "https://github.com/sheshagiri-t/pullrequestreview#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-plugin-json": "^2.1.2",
+    "eslint-plugin-markdown": "^1.0.2"
+  }
+}
